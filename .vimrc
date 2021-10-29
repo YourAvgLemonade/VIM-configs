@@ -21,6 +21,7 @@ Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
 Plugin 'ycm-core/YouCompleteMe'
 Plugin 'ryanoasis/vim-devicons'
+Plugin 'ap/vim-css-color'
 
 call vundle#end()
 filetype plugin indent on
